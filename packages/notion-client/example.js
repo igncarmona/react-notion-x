@@ -10,7 +10,7 @@ async function main() {
   // const output = await api.getPage('b21b2ed02ad446b2af74ee6e262e2124')
   // const output = await api.getPage('3f759cf9d8fe44a5988e0c3b6903e224')
   try {
-    const output = await api.getPage('067dd719a912471ea9a3ac10710e7fdf')
+    const output = await api.getPage('8b0c647f68914499a02cb283ef690cdb')
 
     // collection example
     // const collectionId = '2d8aec23-8281-4a94-9090-caaf823dd21a'
